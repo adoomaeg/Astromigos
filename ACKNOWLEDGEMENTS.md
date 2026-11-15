@@ -2,10 +2,6 @@
 
 ## Earlier implementation and documentation
 
-This workspace retains an earlier **Astronaut Health Intelligence / AHI** implementation and a substantial bilingual technical portal. Existing documentation identifies the reference repository as:
-
-https://github.com/lucaspalharesbarbosa/astronaut-health-intelligence-platform
-
 The Astromigos work builds on that foundation. The new branding and layout, public Artemis II presentation, individual demonstration-history workspace, numbered action guidance, and follow-up tracker must not be presented as authorship of every earlier component.
 
 The supplied workspace had no Git history or root license file when publication preparation began. Existing anatomy documentation describes the earlier application code as MIT, but that is not a substitute for the original license notice. Maintainers should retain or restore the original applicable notice when its authoritative copy is available. This document does not assign a new blanket license to all source code.
