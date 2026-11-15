@@ -22,7 +22,6 @@ The prototype brings measurements, context, explanations, suggested steps, and i
 | [GitHub Pages deployment](docs/DEPLOYMENT.md) | Local setup, publishing, workflow behavior, and troubleshooting. |
 | [Validation and limitations](docs/VALIDATION.md) | What the tests establish and what remains unproven. |
 | [Roadmap](docs/ROADMAP.md) | Potential next steps, clearly separated from implemented work. |
-| [Credits and provenance](ACKNOWLEDGEMENTS.md) | Earlier AHI implementation, public datasets, anatomy, portraits, and branding. |
 
 ## What works today
 
