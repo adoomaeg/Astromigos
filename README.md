@@ -89,9 +89,3 @@ docs-site/                Earlier AHI technical reference portal, retained for c
 The application runs in the browser. Device telemetry is generated locally and labeled `SIMULATED`. Check-ins and demo records entered through the UI are identified as user input. The included NASA OSDR lab panels are separate historical reference datasets from Inspiration4, not live Artemis II readings.
 
 Medical-history entries and display preferences may persist in this browser's local storage. They are not uploaded to a clinical service, shared between devices, or protected by a login system. Use fictional information only. Simulation restarts reset live scenario events and start a new case-tracker run; archived clinical records and cross-device synchronization are not implemented.
-
-## Provenance and licenses
-
-Astromigos builds on the earlier Astronaut Health Intelligence / AHI implementation and technical material retained in this repository. Our redesign, Artemis II presentation, individual history workspace, and follow-up workflow do not replace upstream credit. See [acknowledgements](ACKNOWLEDGEMENTS.md).
-
-The anatomy files retain their [CC BY-SA 4.0 notice](frontend/web/public/anatomy/LICENSE.md). NASA identifiers and public portraits, datasets, dependencies, and team artwork have their own terms. No new blanket license for all repository contents is assigned by this README.
