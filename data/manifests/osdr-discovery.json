@@ -1,0 +1,1739 @@
+{
+  "generated_at": "2026-11-14T11:36:28.329Z",
+  "started_at": "2026-11-14T11:36:17.434Z",
+  "api": "https://osdr.nasa.gov/osdr/data/search (type=cgene), https://osdr.nasa.gov/osdr/data/osd/files/<n>",
+  "term_counts": {
+    "human": 227,
+    "astronaut": 68,
+    "Inspiration4": 8,
+    "crew": 87,
+    "spaceflight": 395,
+    "physiology": 23,
+    "sleep": 3,
+    "cardiovascular": 28,
+    "immune": 74,
+    "blood": 146,
+    "Homo sapiens": 120,
+    "complete blood count": 6,
+    "metabolic panel": 0,
+    "cytokine": 7
+  },
+  "unique_studies": 367,
+  "homo_sapiens_studies": 110,
+  "human_candidates": [
+    {
+      "accession": "OSD-937",
+      "title": "Microgravity accelerates skeletal muscle degeneration: Functional and transcriptomic insights from an ISS muscle lab-on-chip model",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-25",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1755043200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-149",
+      "title": "Comparison of gene expression profiles of normal human bronchial epithelial cells in 2D and 3D cultural conditions",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 0,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-86",
+      "title": "A study of alterations DNA epigenetic modifiincations (5mC and 5hmC) influenced by simulated microgravity in human lymphoblastoid cells",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "DNA methylation profiling",
+      "release_date": 1454371200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-73",
+      "title": "Transcriptome Profiles in Normal Human Bronchial Epithelial Cells after Exposure to gamma-rays and different HZE particles",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1399420800,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-172",
+      "title": "Dynamic gene expression response to altered gravity in human T cells (parabolic flight)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 0,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-9",
+      "title": "Response of human lymphoblastoid cells to activated medium",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1301616000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-115",
+      "title": "Gene expression profiling in human fibroblast after low-LET irradiation",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1276992000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-189",
+      "title": "Gene expression response to simulated gravity and hypergravity in human T cells",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1520467200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-188",
+      "title": "Dynamic gene expression response to altered gravity in human T cells (sounding rocket flight)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1502409600,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-5",
+      "title": "Transcription profiling of activated human T cells induced by microgravity to identify apoptotic genes and other immune response genes",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 0,
+      "matched_terms": [
+        "human",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-297",
+      "title": "Dynamic gene expression response to altered gravity in human myelomonocytic U937 cells [sounding rocket]",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1539648000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-484",
+      "title": "Astronauts plasma-derived exosomes induced gene expression in AC16 cells",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1647043200,
+      "matched_terms": [
+        "human",
+        "astronaut",
+        "cardiovascular",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-317",
+      "title": "Galactic cosmic radiation induces stable epigenome alterations relevant to human lung cancer",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "DNA methylation profiling",
+      "release_date": 1513641600,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-2",
+      "title": "Response of human lymphoblastoid cells to HZE (iron ions) or gamma-rays",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1301616000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-1014",
+      "title": "Distinct molecular responses of human intestinal organoids to proton and photon radiation.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1761609600,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-55",
+      "title": "microRNA expression profiles in human peripheral blood lymphocytes cultured in modeled microgravity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1405555200,
+      "matched_terms": [
+        "human",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-124",
+      "title": "Effect of electromagnetic fields on the chondrogenic differentiation under microgravity conditions",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1451520000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-56",
+      "title": "Gene expression profiling of human peripheral blood lymphocytes cultured in modeled microgravity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1405555200,
+      "matched_terms": [
+        "human",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-114",
+      "title": "Gene Expression Profile Changes due to Bleomycin-Induced DNA Damage in Human Fibroblasts in Space",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-3",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1484870400,
+      "matched_terms": [
+        "human",
+        "astronaut",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-140",
+      "title": "Dynamic nature of epigenetic patterns observed during the Mars 520-d mission simulation",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "DNA methylation profiling",
+      "release_date": 1421193600,
+      "matched_terms": [
+        "human",
+        "crew",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-812",
+      "title": "Simulated microgravity impairs human NK cell cytotoxic activity against space radiation-relevant leukemic cells.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1724284800,
+      "matched_terms": [
+        "human",
+        "astronaut",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-195",
+      "title": "Effects of 21 days of bedrest on human skeletal muscle gene expression",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1539734400,
+      "matched_terms": [
+        "human",
+        "sleep",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-157",
+      "title": "Gene expression in human peripheral blood 48 hours after exposure to ionizing radiation",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1378857600,
+      "matched_terms": [
+        "human",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-175",
+      "title": "IMR90 4hr bystander experiment 0.5Gy alpha particle strip dish format",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1230422400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens",
+        "cytokine"
+      ]
+    },
+    {
+      "accession": "OSD-174",
+      "title": "Effects of a Closed Space Environment on Gene Expression in Hair Follicles of Astronauts in the International Space Station",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1459382400,
+      "matched_terms": [
+        "human",
+        "astronaut",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-283",
+      "title": "Dynamic gene expression response to altered gravity in human myelomonocytic U937 cells [parabolic]",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1539648000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-539",
+      "title": "Transcriptomic response of bioengineered human cartilage to parabolic flight microgravity is sex-dependent",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1664496000,
+      "matched_terms": [
+        "human",
+        "crew",
+        "spaceflight",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-13",
+      "title": "T Cell Activation in Microgravity Compared to 1g (Earth's) Gravity",
+      "organism": "Homo sapiens",
+      "mission": "Expedition 14",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1340236800,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-410",
+      "title": "Dataset for dose and time-dependent transcriptional response to ionizing radiation exposure.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1512086400,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-176",
+      "title": "Regulation of early signaling and gene expression in the alpha-particle and bystander response of IMR-90 human fibroblasts.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1279670400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-541",
+      "title": "Simulated Microgravity Exerts an Age-Dependent Effect on the Differentiation of Cardiovascular Progenitors Isolated from the Human Heart",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1454284800,
+      "matched_terms": [
+        "human",
+        "cardiovascular",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-998",
+      "title": "Transcriptional Response in Human Jurkat T Lymphocytes to a near Physiological Hypergravity Environment and to One Common in Routine Cell Culture Protocols - 300 g centrifugation and heat stress experiment",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1675728000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-1012",
+      "title": "Impact of Neutron Exposure on Global Gene Expression in a Human Peripheral Blood Model.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1487721600,
+      "matched_terms": [
+        "human",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-92",
+      "title": "Response of the EPI-200 human 3-D skin model to high and low doses of protons",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1309478400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-127",
+      "title": "Global gene expression profiles of cardiac progenitors differentiated from human pluripotent stem cells in 3D culture under simulated microgravity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1470614400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-353",
+      "title": "The Effects of Spaceflight Factors on the Human Plasma Proteome, Including Both Real Space Missions and Ground-Based Experiments",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "protein expression profiling",
+      "release_date": 1554595200,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-182",
+      "title": "Human skin fibroblast mitochondrial depletion, 0.5 Gy alpha-particle",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1301875200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens",
+        "cytokine"
+      ]
+    },
+    {
+      "accession": "OSD-992",
+      "title": "Space radiation induces distinct senescent phenotypes: Implications for space travel [scRNA-Seq]",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1765238400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-316",
+      "title": "Plasticity of the human IgM repertoire in response to a long-term spaceflight",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1590451200,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-516",
+      "title": "Modeling cellular responses to serum and vitamin D in microgravity using a human kidney microphysiological system",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-17",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1721260800,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-354",
+      "title": "Molecular Transducers of Human Skeletal Muscle Remodeling under Different Loading States",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1597276800,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-128",
+      "title": "Identification of miRNAs involved in cell response to ionizing radiation and modeled microgravity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1335657600,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-344",
+      "title": "Real-time quantitative PCR analysis of human cardiovascular progenitor cells flown aboard the International Space Station",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-11",
+      "assay_measurement_types": "transcription profiling | transcription profiling",
+      "release_date": 1532563200,
+      "matched_terms": [
+        "human",
+        "cardiovascular",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-369",
+      "title": "Bystander responses to 0.5Gy of alpha-particles in a human 3-dimensional skin model in 4h after exposure to ionizing radiation",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1314662400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-152",
+      "title": "Transcription profiling of human peripheral blood to development gene expression signatures for practical radiation biodosimetry",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1224288000,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-154",
+      "title": "Low dose ionizing radiation treated lymphoblastoid cells",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1280448000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-368",
+      "title": "Biological response to low dose of alpha-particles in a human 3-dimensional skin model, in 1 and 16h after exposure to ionizing radiation.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1314662400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-542",
+      "title": "Effects of 14 days of confinement on blood gene expression profiles in men",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1665187200,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-367",
+      "title": "Bystander response to 0.5 Gy of alpha-particles in a human 3-dimensional skin model in 16h after exposure to ionizing radiation",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1314662400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-359",
+      "title": "Proteome profiling of the exhaled breath condensate after long-term spaceflights",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "protein expression profiling",
+      "release_date": 1569542400,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "physiology",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-78",
+      "title": "Transcription profiling of human MCF10A cells subjected to ionizing radiation and treatment with transforming growth factor beta-1",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1226102400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-530",
+      "title": "Cell-free RNA analysis of plasma samples collected from six astronauts in JAXA Cell-Free Epigenome (CFE) Study",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling | transcription profiling",
+      "release_date": 1669852800,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-1015",
+      "title": "Distinct Sets of lncRNAs are Differentially Modulated after Exposure to High and Low Doses of X Rays.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1472601600,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-323",
+      "title": "Evaluating the effect of spaceflight on the host-pathogen interaction between human intestinal epithelial cells and Salmonella Typhimurium",
+      "organism": "Homo sapiens",
+      "mission": "STS-131",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1614038400,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "physiology",
+        "immune",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-816",
+      "title": "The ex vivo human translaminar autonomous system to study spaceflight associated neuro-ocular syndrome pathogenesis (Retina, RT-PCR and electroretinography)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling | Electrophysiology",
+      "release_date": 1784764800,
+      "matched_terms": [
+        "human"
+      ]
+    },
+    {
+      "accession": "OSD-943",
+      "title": "Longitudinal transcriptomic and epigenetic analysis in astronauts reveals dynamic immune response to spaceflight [DNA methylation]",
+      "organism": "Homo sapiens",
+      "mission": "AX-1",
+      "assay_measurement_types": "DNA methylation profiling",
+      "release_date": 1753833600,
+      "matched_terms": [
+        "human",
+        "crew",
+        "spaceflight",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-71",
+      "title": "Immediate Transcriptional Changes in Response to High Dose Radiation Exposure",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1451606400,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-118",
+      "title": "Transient gene expression profile changes of confluent human fibroblast cells in spaceflight",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-3",
+      "assay_measurement_types": "transcription profiling | transcription profiling",
+      "release_date": 1493337600,
+      "matched_terms": [
+        "human",
+        "astronaut"
+      ]
+    },
+    {
+      "accession": "OSD-431",
+      "title": "Microgravity and space radiation exert either opposite or synergic effects on single molecular pathways",
+      "organism": "Homo sapiens",
+      "mission": "Soyuz TMA-18M",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1640131200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-993",
+      "title": "Space radiation induces distinct senescent phenotypes: Implications for space travel [bulk RNA-Seq]",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1765238400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-1008",
+      "title": "Proteomic dataset of MECP2-deficient and wild-type human brain organoids under spaceflight and ground conditions",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "protein expression profiling",
+      "release_date": 1770595200,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-331",
+      "title": "Effect of microgravity on HUVECs (Human Umbilical vein Endothelial cells) cells and its transcriptome analysis.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1597104000,
+      "matched_terms": [
+        "human",
+        "cardiovascular",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-990",
+      "title": "Transcriptional Response in Human Jurkat T Lymphocytes to a near Physiological Hypergravity Environment and to One Common in Routine Cell Culture Protocols - 9g hypergravity experiment",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1675728000,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-129",
+      "title": "Gene expression profiling of PBL in response to ionizing radiation and modeled microgravity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1334016000,
+      "matched_terms": [
+        "human",
+        "blood"
+      ]
+    },
+    {
+      "accession": "OSD-178",
+      "title": "IMR90 radiation bystander time-course experiment 0.5Gy alpha particle",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1294963200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-91",
+      "title": "A study of gene expression influenced by simulated microgravity in human lymphoblastoid cells",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1454371200,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-151",
+      "title": "Bystander response to 2.5 Gy of protons in a human 3-dimensional skin model in 16 h after exposure",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1314662400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-867",
+      "title": "Impact of spaceflight on gene expression in cultured human mesenchymal stem/stromal cell",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-10",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1742342400,
+      "matched_terms": [
+        "human",
+        "physiology",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-258",
+      "title": "Effects of Spaceflight on Human Induced Pluripotent Stem Cell-Derived Cardiomyocyte Structure and Function",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1573084800,
+      "matched_terms": [
+        "human",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-54",
+      "title": "Immune responses to the in vitro LPS assault engineered in the spaceflight multi-omics study",
+      "organism": "Homo sapiens",
+      "mission": "STS-135",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 0,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "immune",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-635",
+      "title": "Spaceflight effects on human vascular smooth muscle cell phenotype and function",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-17",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1712102400,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "cardiovascular",
+        "blood",
+        "Homo sapiens",
+        "complete blood count"
+      ]
+    },
+    {
+      "accession": "OSD-52",
+      "title": "Expression data from SPHINX (SPaceflight of Huvec: an INtegrated eXperiment)",
+      "organism": "Homo sapiens",
+      "mission": "Expedition 25",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1358640000,
+      "matched_terms": [
+        "human",
+        "spaceflight",
+        "cardiovascular",
+        "immune",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-130",
+      "title": "RAD51 Interconnects Between DNA Replication, DNA Repair and Immunity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1487376000,
+      "matched_terms": [
+        "human",
+        "immune",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-946",
+      "title": "Exercise Training Attenuates the Muscle Mitochondria Genomic Response to Bed Rest (miRNA microarray data)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1719446400,
+      "matched_terms": [
+        "human",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-53",
+      "title": "Spaceflight Modulates Gene Expression in Astronauts",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1381795200,
+      "matched_terms": [
+        "astronaut",
+        "spaceflight",
+        "physiology",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-687",
+      "title": "SpaceX Inspiration4 T-Cell Histone Modification Profiling (H3K4me1, H3K4me3, H3K27ac)",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX Inspiration4",
+      "assay_measurement_types": "protein-DNA binding site identification",
+      "release_date": 1715644800,
+      "matched_terms": [
+        "astronaut",
+        "Inspiration4",
+        "crew",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-481",
+      "title": "New insights into the role of lncRNA after spaceflight",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1642464000,
+      "matched_terms": [
+        "astronaut",
+        "spaceflight",
+        "cardiovascular",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-1005",
+      "title": "PROtection MEdiated by Antioxidant NanoTEchnOlogy Against Neuronal Damage in Space 2 (PROMETEO 2, Nano Protection)",
+      "organism": "Homo sapiens",
+      "mission": "Ax-3",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1778803200,
+      "matched_terms": [
+        "astronaut",
+        "crew",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-571",
+      "title": "SpaceX Inspiration4 Plasma Profiling: Proteomics, EVPs, Metabolomics, cfDNA Sequencing and cfRNA Sequencing",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX Inspiration4",
+      "assay_measurement_types": "protein expression profiling | protein expression profiling | metabolite profiling | genome sequencing | transcription profiling",
+      "release_date": 1715644800,
+      "matched_terms": [
+        "astronaut",
+        "Inspiration4",
+        "crew",
+        "blood"
+      ]
+    },
+    {
+      "accession": "OSD-570",
+      "title": "SpaceX Inspiration4 PBMC Profiling: snRNA-seq, snATAC-seq, and T-cell and B-cell repertoire profiling",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX Inspiration4",
+      "assay_measurement_types": "transcription profiling | Chromatin Accessibility | transcription profiling | transcription profiling",
+      "release_date": 1715644800,
+      "matched_terms": [
+        "astronaut",
+        "Inspiration4",
+        "crew",
+        "immune",
+        "blood"
+      ]
+    },
+    {
+      "accession": "OSD-574",
+      "title": "SpaceX Inspiration4 Deltoid Skin and Microbiome Data: Spatial Transcriptomics (NanoString GeoMx), Metageomics, and Metatranscriptomics",
+      "organism": "Microbiota Homo sapiens Not Applicable",
+      "mission": "SpaceX Inspiration4",
+      "assay_measurement_types": "Metagenomic sequencing | transcription profiling | metatranscriptome sequencing assay",
+      "release_date": 1715644800,
+      "matched_terms": [
+        "astronaut",
+        "Inspiration4",
+        "crew"
+      ]
+    },
+    {
+      "accession": "OSD-569",
+      "title": "Whole Blood Measurements from the SpaceX Inspiration4 Mission (RNA-seq, epitranscriptome, WGS, clonal hematopoiesis, CBC)",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX Inspiration4",
+      "assay_measurement_types": "Complete Blood Count | transcription profiling | genome sequencing | transcription profiling | Targeted Genome Sequencing",
+      "release_date": 1715644800,
+      "matched_terms": [
+        "astronaut",
+        "Inspiration4",
+        "crew",
+        "immune",
+        "blood",
+        "complete blood count"
+      ]
+    },
+    {
+      "accession": "OSD-903",
+      "title": "Longitudinal transcriptomic and epigenetic analysis in astronauts reveals dynamic immune response to spaceflight [RNA-seq]",
+      "organism": "Homo sapiens",
+      "mission": "AX-1",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1753833600,
+      "matched_terms": [
+        "crew",
+        "spaceflight",
+        "immune",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-684",
+      "title": "Human skeletal muscle tissue chip autonomous payload reveals changes in fiber type and metabolic gene expression due to spaceflight",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-21",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1709769600,
+      "matched_terms": [
+        "crew"
+      ]
+    },
+    {
+      "accession": "OSD-689",
+      "title": "Single-cell analysis identifies conserved features of immune dysfunction in simulated microgravity and spaceflight",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling | transcription profiling",
+      "release_date": 1731888000,
+      "matched_terms": [
+        "crew",
+        "immune",
+        "blood",
+        "Homo sapiens",
+        "complete blood count"
+      ]
+    },
+    {
+      "accession": "OSD-546",
+      "title": "SCD – Stem Cell Differentiation Toward Osteoblast Onboard the International Space Station",
+      "organism": "Homo sapiens",
+      "mission": "Soyuz TMA-16M  Soyuz TMA-15M",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1548892800,
+      "matched_terms": [
+        "crew"
+      ]
+    },
+    {
+      "accession": "OSD-781",
+      "title": "Skeletal muscle-on-a-chip in microgravity as a platform for regeneration modeling and drug screening - myoblast data",
+      "organism": "Homo sapiens",
+      "mission": "NG-16",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1719878400,
+      "matched_terms": [
+        "crew",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-483",
+      "title": "small-RNA sequencing of sEV isolated from plasma of astronauts",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1641945600,
+      "matched_terms": [
+        "spaceflight",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-941",
+      "title": "Spaceflight reshapes Alzheimer's disease–associated molecular programs in human brain organoids",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-30",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1792972800,
+      "matched_terms": [
+        "spaceflight"
+      ]
+    },
+    {
+      "accession": "OSD-51",
+      "title": "Woman skeletal muscle transcriptome with bed rest and countermeasures.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": null,
+      "release_date": 1284076800,
+      "matched_terms": [
+        "physiology"
+      ]
+    },
+    {
+      "accession": "OSD-540",
+      "title": "Ten-day human unilateral lower limb suspension and active recovery in young healthy men",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1664236800,
+      "matched_terms": [
+        "cardiovascular",
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-315",
+      "title": "Comparative proteomic analysis and bioluminescent reporter gene assays to investigate effects of simulated microgravity on Caco-2 cells",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "protein expression profiling",
+      "release_date": 1501027200,
+      "matched_terms": [
+        "immune",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-363",
+      "title": "Inflammatory gene expression signatures in idiopathic intracranial hypertension: possible implications in microgravity-induced ICP elevation - CSF",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling | transcription profiling",
+      "release_date": 1615507200,
+      "matched_terms": [
+        "immune",
+        "blood",
+        "cytokine"
+      ]
+    },
+    {
+      "accession": "OSD-364",
+      "title": "Inflammatory gene expression signatures in idiopathic intracranial hypertension: possible implications in microgravity-induced ICP elevation - Plasma",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling | transcription profiling",
+      "release_date": 1615507200,
+      "matched_terms": [
+        "immune",
+        "blood",
+        "cytokine"
+      ]
+    },
+    {
+      "accession": "OSD-155",
+      "title": "Radiation responses in peripheral white blood cells of smokers and non-smokers",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1300492800,
+      "matched_terms": [
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-370",
+      "title": "Insulin resistance induced by physical inactivity is associated with multiple transcriptional changes in skeletal muscle in young men",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1285027200,
+      "matched_terms": [
+        "blood",
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-940",
+      "title": "Effects of simulated microgravity on colorectal cancer organoids growth and drug response",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1726012800,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-787",
+      "title": "Skeletal muscle-on-a-chip in microgravity as a platform for regeneration modeling and drug screening - vastus lateralis data",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1719878400,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-784",
+      "title": "Multidirectional effect of low-intensity electrical myostimulation on gene expression and phenotype in thigh and calf muscles after one week of disuse - vastus lateralis data",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1730419200,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-783",
+      "title": "Multidirectional effect of low-intensity electrical myostimulation on gene expression and phenotype in thigh and calf muscles after one week of disuse - soleus data",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1730419200,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-125",
+      "title": "mRNA expression profile in DLD-1 and MOLT-4 cancer cell lines cultured under Microgravity",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1486425600,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-811",
+      "title": "Space microgravity increases expression of genes associated with proliferation and differentiation in human cardiac spheres",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-20",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1742342400,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-871",
+      "title": "Effects of microgravity on human iPSC-derived neural organoids on the International Space Station - dopaminergic organoids",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-19",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1723593600,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-863",
+      "title": "Effects of microgravity on human iPSC-derived neural organoids on the International Space Station - cortical organoids",
+      "organism": "Homo sapiens",
+      "mission": "SpaceX-19",
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1723593600,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-285",
+      "title": "Chronic low dose-rate radiation down-regulates transcription related to mitosis and chromosomal movement similar to acute high dose in prostate cells.",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1387497600,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-999",
+      "title": "Sex‐Specific Changes in Brain Organoids from Acute Simulated Galactic Cosmic Radiation are Rescued by Targeted ECM Pathway Stimulation (sex-specific response experiment)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1765152000,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-942",
+      "title": "Exercise Training Attenuates the Muscle Mitochondria Genomic Response to Bed Rest (microarray data)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1719446400,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-1000",
+      "title": "Sex‐Specific Changes in Brain Organoids from Acute Simulated Galactic Cosmic Radiation are Rescued by Targeted ECM Pathway Stimulation (Opto-FGFR-mediated rescue under simGCRsim exposure)",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1765152000,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-198",
+      "title": "Effects of bedrest and hypoxia on human skeletal muscle miRNA expression",
+      "organism": "Homo sapiens",
+      "mission": null,
+      "assay_measurement_types": "transcription profiling",
+      "release_date": 1462320000,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    },
+    {
+      "accession": "OSD-936",
+      "title": "Gravitational and mechanical forces drive mitochondrial translation- human HEK293 cell datasets",
+      "organism": "Homo sapiens",
+      "mission": "NG-14",
+      "assay_measurement_types": "transcription profiling | transcription profiling | translation profiling | translation profiling",
+      "release_date": 1769385600,
+      "matched_terms": [
+        "Homo sapiens"
+      ]
+    }
+  ],
+  "shortlist_files": [
+    {
+      "accession": "OSD-569",
+      "file_count": 11,
+      "tabular_files": [
+        {
+          "file_name": "GLDS-561_long-readRNAseq_Direct_RNA_seq_Gene_Expression_Processed.xlsx",
+          "file_size": 123312037,
+          "category": "long read RNA-Seq",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "LSDS-7_Complete_Blood_Count_CBC.upload_SUBMITTED.csv",
+          "file_size": 26138,
+          "category": "Complete Blood Count",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "GLDS-561_directm6Aseq_Direct_RNA_seq_m6A_Processed_Data.xlsx",
+          "file_size": 93081199,
+          "category": "m6A Direct RNAseq Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "LSDS-7_Complete_Blood_Count_CBC_TRANSFORMED.csv",
+          "file_size": 9317,
+          "category": "Complete Blood Count",
+          "subcategory": "Tabular Results Files"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-575",
+      "file_count": 9,
+      "tabular_files": [
+        {
+          "file_name": "LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv",
+          "file_size": 25275,
+          "category": "Comprehensive Metabolic Panel",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Multiplex_serum.immune.EvePanel_SUBMITTED.csv",
+          "file_size": 107418,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Multiplex_serum.cardiovascular.EvePanel_SUBMITTED.csv",
+          "file_size": 15241,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Multiplex_serum.immune.AlamarPanel_SUBMITTED.xlsx",
+          "file_size": 322799,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Multiplex_serum_immune_EvePanel_TRANSFORMED.csv",
+          "file_size": 41214,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Multiplex_serum_cardiovascular_EvePanel_TRANSFORMED.csv",
+          "file_size": 6207,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Multiplex_serum.immune.AlamarPanel_TRANSFORMED.csv",
+          "file_size": 141783,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-8_Comprehensive_Metabolic_Panel_CMP_TRANSFORMED.csv",
+          "file_size": 8506,
+          "category": "Comprehensive Metabolic Panel",
+          "subcategory": "Tabular Results Files"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-656",
+      "file_count": 4,
+      "tabular_files": [
+        {
+          "file_name": "LSDS-64_Multiplex_urine.immune.AlamarPanel_SUBMITTED.xlsx",
+          "file_size": 267443,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        },
+        {
+          "file_name": "LSDS-64_Multiplex_200plex v1-Target Information.csv",
+          "file_size": 13339,
+          "category": "Immunoassay",
+          "subcategory": "Supplementary and Metadata Files"
+        },
+        {
+          "file_name": "LSDS-64_Multiplex_urine.immune.AlamarPanel_TRANSFORMED.csv",
+          "file_size": 114890,
+          "category": "Immunoassay",
+          "subcategory": "Tabular Results Files"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-571",
+      "file_count": 14,
+      "tabular_files": [
+        {
+          "file_name": "GLDS-563_proteomics_plasma_metadata_all_samples_collapsed.csv",
+          "file_size": 1204,
+          "category": "Proteomics Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_proteomics_EVPs_proteomics_preprocessed_data.txt",
+          "file_size": 521479,
+          "category": "Proteomics Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_proteomics_Plasma_Proteomics_Processed_Data.xlsx",
+          "file_size": 322387,
+          "category": "Proteomics Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_metabolomics_Plasma_Metabolomics_Processed_Data.xlsx",
+          "file_size": 296894,
+          "category": "Metabolomics Data Files\r\n",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_proteomics_EVPs_sample_metadata.csv",
+          "file_size": 1904,
+          "category": "Proteomics Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_proteomics_EVP_Proteomics_Processed_Data.xlsx",
+          "file_size": 105816,
+          "category": "Proteomics Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_proteomics_plasma_proteomics_preprocessed_data.tsv",
+          "file_size": 61319947,
+          "category": "Proteomics Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_metabolomics_metabolomics_RPPOS-NEG_preprocessed_data.xlsx",
+          "file_size": 102363,
+          "category": "Metabolomics Data Files\r\n",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-563_metabolomics_metabolomics_ANPPOS-NEG_preprocessed_data.xlsx",
+          "file_size": 159337,
+          "category": "Metabolomics Data Files\r\n",
+          "subcategory": "Processed Data Files"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-570",
+      "file_count": 12,
+      "tabular_files": [
+        {
+          "file_name": "GLDS-562_snATAC-Seq_PBMC_Chromatin_Accessibility_snATAC-seq_Processed_Data.xlsx",
+          "file_size": 9477285,
+          "category": "snATAC-Seq",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-562_snRNA-Seq_PBMC_Gene_Expression_snRNA-seq_Processed_Data.xlsx",
+          "file_size": 3380344,
+          "category": "snRNA-Seq Data Files",
+          "subcategory": "Processed Data Files"
+        },
+        {
+          "file_name": "GLDS-562_scRNA-Seq_VDJ_Results.xlsx",
+          "file_size": 52634236,
+          "category": "scRNA-Seq Data Files",
+          "subcategory": "Processed Data Files"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-53",
+      "file_count": 3,
+      "tabular_files": []
+    },
+    {
+      "accession": "OSD-903",
+      "file_count": 1,
+      "tabular_files": []
+    },
+    {
+      "accession": "OSD-530",
+      "file_count": 8,
+      "tabular_files": [
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_063_Input_vs_IP_totalcount_all0removed_scalingnormalized.xlsx",
+          "file_size": 1914151,
+          "category": "RNA-Seq",
+          "subcategory": "Differential Expression Analysis Data"
+        },
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_050_64samples_3group_totalcount_all0removed_scalingnormalized_ANOVA_FDRpval005_2x_50difference_466genes.xlsx",
+          "file_size": 138256,
+          "category": "RNA-Seq",
+          "subcategory": "Differential Expression Analysis Data"
+        },
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_050_64samples_3group_totalcount_all0removed_scalingnormalized.xlsx",
+          "file_size": 10736015,
+          "category": "RNA-Seq",
+          "subcategory": "Differential Expression Analysis Data"
+        },
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_050_1_2_64samples_9group_totalcount_all0removed_scalingnormalized_pairwise_analysis_included.xlsx",
+          "file_size": 11499522,
+          "category": "RNA-Seq",
+          "subcategory": "Differential Expression Analysis Data"
+        },
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_050_64samples_3group_totalcount.xlsx",
+          "file_size": 2422565,
+          "category": "RNA-Seq",
+          "subcategory": "Raw Counts Data"
+        },
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_050_1_2_64samples_9group_totalcount_all0removed_scalingnormalized_SEM.xlsx",
+          "file_size": 5000892,
+          "category": "RNA-Seq",
+          "subcategory": "Normalized counts data"
+        },
+        {
+          "file_name": "GLDS-530_rna-seq_TGB_050_1_2_64samples_11group_totalcount_all0removed_scalingnormalized_SEM.xlsx",
+          "file_size": 4547408,
+          "category": "RNA-Seq",
+          "subcategory": "Normalized counts data"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-353",
+      "file_count": 4,
+      "tabular_files": []
+    },
+    {
+      "accession": "OSD-359",
+      "file_count": 3,
+      "tabular_files": []
+    },
+    {
+      "accession": "OSD-542",
+      "file_count": 41,
+      "tabular_files": [
+        {
+          "file_name": "GLDS-542_array_nextflow_processing_info.txt",
+          "file_size": 1438,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Processing Info"
+        },
+        {
+          "file_name": "GLDS-542_array_microarray_v0_runsheet.csv",
+          "file_size": 12383,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Processing Info"
+        },
+        {
+          "file_name": "GLDS-542_array_raw_intensities.csv",
+          "file_size": 43389082,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Raw Data"
+        },
+        {
+          "file_name": "GLDS-542_array_normalized_expression.csv",
+          "file_size": 43368113,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Normalized Data"
+        },
+        {
+          "file_name": "GLDS-542_array_differential_expression.csv",
+          "file_size": 56090742,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Differential gene expression analysis"
+        },
+        {
+          "file_name": "GLDS-542_array_contrasts.csv",
+          "file_size": 211,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Differential gene expression analysis"
+        },
+        {
+          "file_name": "GLDS-542_array_SampleTable.csv",
+          "file_size": 1202,
+          "category": "GeneLab Processed Microarray Data Files",
+          "subcategory": "Differential gene expression analysis"
+        }
+      ]
+    },
+    {
+      "accession": "OSD-140",
+      "file_count": 7,
+      "tabular_files": [
+        {
+          "file_name": "GLDS-140_epigenomics_A-GEOD-13534.adf.txt",
+          "file_size": 5353622,
+          "category": "Whole Genome Bisulfite Sequencing Data",
+          "subcategory": ""
+        }
+      ]
+    }
+  ]
+}

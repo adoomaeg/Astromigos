@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/jpeg" href="%BASE_URL%astromigos-logo.jpeg" />
+    <meta name="description" content="Astromigos is a browser-based spaceflight health simulation connecting personal baselines, 3D anatomy, health alerts, and guided follow-up. All live telemetry is simulated." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Astromigos | Autonomous Space Health Monitoring System</title>
+  </head>
+  <body>
+    <div id="root">
+      <div style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;font-family:Inter,system-ui,sans-serif;color:#a9b6cf;background:radial-gradient(1200px 800px at 50% 40%,#0b1730 0%,#060a14 55%,#04070d 100%)">
+        <div style="width:56px;height:56px;border-radius:50%;border:2px solid rgba(94,234,212,0.15);border-top-color:#38cfff;animation:ahi-spin 0.9s linear infinite"></div>
+        <div style="font-size:15px;font-weight:600;color:#e8eefc;letter-spacing:0.02em">Astromigos | Autonomous Space Health Monitoring System</div>
+        <div style="font-size:12px">Connecting simulated devices and calibrating personal baselines...</div>
+      </div>
+      <style>@keyframes ahi-spin{to{transform:rotate(360deg)}}</style>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

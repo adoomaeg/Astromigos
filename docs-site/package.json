@@ -1,0 +1,17 @@
+{
+  "name": "astronaut-health-intelligence-platform-docs",
+  "private": true,
+  "type": "module",
+  "description": "Documentation portal for the Astronaut Health Intelligence Platform, built with VitePress.",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "markdown-it-footnote": "4.0.0",
+    "mermaid": "11.17.2",
+    "vitepress": "1.6.4",
+    "vitepress-plugin-mermaid": "2.0.17"
+  }
+}

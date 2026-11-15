@@ -1,0 +1,123 @@
+{
+  "import_job_id": "osdr-import-2026-11-14T11-37-00-531Z",
+  "record": {
+    "id": "osdr-osd-575-cmp",
+    "source_name": "NASA Open Science Data Repository (OSDR)",
+    "source_url": "https://osdr.nasa.gov/bio/repo/data/studies/OSD-575",
+    "dataset_accession": "OSD-575",
+    "dataset_version": "OSDR metadata version 3",
+    "title": "SpaceX Inspiration4 Blood Serum Metabolic Panel and Immune/Cardiac Cytokine Arrays (Comprehensive Metabolic Panel and Multiplex)",
+    "downloaded_at": "2026-11-14T11:37:06.986Z",
+    "license": null,
+    "access_classification": "Public, open access (downloaded without authentication). Processed tabular data.",
+    "file_name": "LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv",
+    "sha256": "dab247eb794edab59aaaa683c85fd1f2dbf4ae3684872739338e10ead4192a0c",
+    "parser_version": "ahi-osdr-import 1.0.0",
+    "study_population": "4 crew members (C001, C002, C003, C004): 2 female, 2 male per sample metadata. Study description: \"four private astronauts\". Age: not stated.",
+    "mission": "SpaceX Inspiration4 (09/16/2021 to 09/18/2021)",
+    "study_design": "Repeated measures on the same 4 subjects at 7 ground time points. Study factors: Time, Spaceflight. Design descriptor: low Earth orbit.",
+    "collection_phase": "Pre-flight (L-92, L-44, L-3) and post-flight (R+1, R+45, R+82, R+194). No in-flight samples in this file.",
+    "notes": "Comprehensive metabolic panel (CMP) from Serum (serum separator tube). L-n = n days before launch, R+n = n days after return (as labeled in the source). Reference ranges are the lab ranges reported in the source file, not NASA limits. License: not stated in the study metadata.",
+    "data_origin": "REAL_PUBLIC"
+  },
+  "files": [
+    {
+      "role": "data",
+      "file_name": "LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv",
+      "url": "https://osdr.nasa.gov/geode-py/ws/studies/OSD-575/download?source=datamanager&file=LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv",
+      "size_bytes": 25275,
+      "listed_size_bytes": 25275,
+      "sha256": "dab247eb794edab59aaaa683c85fd1f2dbf4ae3684872739338e10ead4192a0c",
+      "downloaded_at": "2026-11-14T11:37:06.986Z",
+      "raw_path": "data/raw/OSD-575/LSDS-8_Comprehensive_Metabolic_Panel_CMP.upload_SUBMITTED.csv"
+    },
+    {
+      "role": "metadata",
+      "file_name": "osdr-meta.json",
+      "url": "https://osdr.nasa.gov/osdr/data/osd/meta/575",
+      "size_bytes": 493765,
+      "sha256": "645a0c6693a96cfee62f3af4bc7b4e55365d0eaa8d8756d1d606b2f78f83058c",
+      "downloaded_at": "2026-11-14T11:37:06.010Z",
+      "raw_path": "data/raw/OSD-575/osdr-meta.json"
+    },
+    {
+      "role": "file listing",
+      "file_name": "osdr-files.json",
+      "url": "https://osdr.nasa.gov/osdr/data/osd/files/575",
+      "size_bytes": 4144,
+      "sha256": "4c2430cfcbcd979125761984815ba8d9c8fb7899330eba02cb90bd48d5b19c00",
+      "downloaded_at": "2026-11-14T11:37:06.010Z",
+      "raw_path": "data/raw/OSD-575/osdr-files.json"
+    }
+  ],
+  "api": {
+    "meta": "https://osdr.nasa.gov/osdr/data/osd/meta/575",
+    "files": "https://osdr.nasa.gov/osdr/data/osd/files/575",
+    "biodata": "https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-575/"
+  },
+  "assay": {
+    "panel": "Comprehensive metabolic panel (CMP)",
+    "specimen": "Serum (serum separator tube)",
+    "protocol_name": "Comprehensive Metabolic Panel",
+    "protocol_description": "Fresh serum was submitted to Quest Diagnostics (test code 10231) and run on a Beckman Coulter AU5800."
+  },
+  "study": {
+    "release_date": "14-May-2024",
+    "submission_date": "05-Dec-2022",
+    "related_accessions": [
+      "OSD-569",
+      "OSD-570",
+      "OSD-571",
+      "OSD-572",
+      "OSD-573",
+      "OSD-574",
+      "OSD-656",
+      "OSD-630"
+    ]
+  },
+  "quality": {
+    "source_rows": 531,
+    "numeric_values": 509,
+    "non_numeric_values": [
+      "C001 L-92 BUN/CREATININE RATIO: \"NA\"",
+      "C001 L-44 BUN/CREATININE RATIO: \"NA\"",
+      "C001 R+1 BUN/CREATININE RATIO: \"NA\"",
+      "C001 R+45 BUN/CREATININE RATIO: \"NA\"",
+      "C001 R+45 BILIRUBIN; TOTAL: \"NA\"",
+      "C001 R+82 BUN/CREATININE RATIO: \"NA\"",
+      "C002 L-92 BUN/CREATININE RATIO: \"NA\"",
+      "C002 L-44 BUN/CREATININE RATIO: \"NA\"",
+      "C002 L-3 BUN/CREATININE RATIO: \"NA\"",
+      "C002 R+1 BUN/CREATININE RATIO: \"NA\"",
+      "C002 R+45 BUN/CREATININE RATIO: \"NA\"",
+      "C002 R+194 BUN/CREATININE RATIO: \"NA\"",
+      "C004 L-92 BUN/CREATININE RATIO: \"NA\"",
+      "C004 L-44 BUN/CREATININE RATIO: \"NA\"",
+      "C004 L-3 BUN/CREATININE RATIO: \"NA\"",
+      "C004 R+45 BUN/CREATININE RATIO: \"NA\"",
+      "C004 R+82 BUN/CREATININE RATIO: \"NA\"",
+      "C003 L-92 BUN/CREATININE RATIO: \"NA\"",
+      "C003 L-44 BUN/CREATININE RATIO: \"NA\"",
+      "C003 R+45 BUN/CREATININE RATIO: \"NA\"",
+      "C003 R+82 BUN/CREATININE RATIO: \"NA\"",
+      "C003 R+1 BUN/CREATININE RATIO: \"NA\""
+    ],
+    "ui_analytes": 17,
+    "ui_cells_expected": 476,
+    "ui_cells_with_value": 453,
+    "ui_cells_missing": 23,
+    "excluded_from_ui": [
+      {
+        "analyte": "eGFR NON-AFR. AMERICAN",
+        "reason": "Estimated GFR reported with race based equations (two variants). Kept in raw and long format files, not displayed."
+      },
+      {
+        "analyte": "eGFR AFRICAN AMERICAN",
+        "reason": "Estimated GFR reported with race based equations (two variants). Kept in raw and long format files, not displayed."
+      }
+    ]
+  },
+  "discrepancies": [
+    "Study description lists post-flight time points \"R+1, R+45, R+82\" but the file also contains R+194."
+  ]
+}

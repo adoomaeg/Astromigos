@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-11-14T12:17:47.455Z",
+  "engineVersion": "ahi-engine 2.0.0",
+  "nominal": {
+    "simulatedHours": 72,
+    "crewHours": 1440,
+    "falseAlertsPerCrewDay": 0,
+    "maxLevel": "MODERATE",
+    "moderateAlertsPerCrewDay": 0,
+    "seeds": [
+      20261114,
+      20261115,
+      20261116,
+      20261117,
+      20261118
+    ],
+    "levelShare": {
+      "LOW": 0.9997,
+      "MODERATE": 0.0003,
+      "HIGH": 0,
+      "CRITICAL": 0
+    }
+  },
+  "scenarios": [
+    {
+      "scenarioId": "ACUTE_CARDIO",
+      "target": "AST-01",
+      "timeToFirstAlertMin": 7,
+      "timeToHighMin": 7,
+      "timeToCriticalMin": 7,
+      "peakLevel": "CRITICAL",
+      "firstAlertRule": "R-HR-01",
+      "simulatedHours": 3,
+      "peakScore": 100
+    },
+    {
+      "scenarioId": "SENSOR_FAILURE",
+      "target": "AST-03",
+      "timeToFirstAlertMin": 14,
+      "timeToHighMin": null,
+      "timeToCriticalMin": null,
+      "peakLevel": "MODERATE",
+      "firstAlertRule": "R-DQ-02",
+      "simulatedHours": 3,
+      "peakScore": 20
+    },
+    {
+      "scenarioId": "ENVIRONMENTAL_CO2",
+      "target": null,
+      "timeToFirstAlertMin": 90,
+      "timeToHighMin": 140,
+      "timeToCriticalMin": null,
+      "peakLevel": "HIGH",
+      "firstAlertRule": "R-ENV-CO2-01",
+      "simulatedHours": 12,
+      "peakScore": 77
+    },
+    {
+      "scenarioId": "PROGRESSIVE_FATIGUE",
+      "target": "AST-02",
+      "timeToFirstAlertMin": 1905,
+      "timeToHighMin": 2010,
+      "timeToCriticalMin": null,
+      "peakLevel": "HIGH",
+      "firstAlertRule": "R-FAT-01",
+      "simulatedHours": 96,
+      "peakScore": 79
+    },
+    {
+      "scenarioId": "PERFORMANCE_DECLINE",
+      "target": "AST-04",
+      "timeToFirstAlertMin": 1650,
+      "timeToHighMin": 4530,
+      "timeToCriticalMin": null,
+      "peakLevel": "HIGH",
+      "firstAlertRule": "R-EX-01",
+      "simulatedHours": 120,
+      "peakScore": 45
+    }
+  ],
+  "notes": [
+    "All data is SIMULATED. These numbers describe the prototype rules on simulated data, not clinical performance.",
+    "NOMINAL: 5 seeds x 72 sim hours x 4 crew = 60 crew days, analytics every 15 sim minutes. Every alert in NOMINAL counts as a false alert.",
+    "falseAlertsPerCrewDay counts crew alerts at HIGH or above; moderateAlertsPerCrewDay counts crew alerts at MODERATE or above (any rule).",
+    "NOMINAL crew alerts by rule: none. Cabin alerts: 0.",
+    "Scenario times are minutes from the scenario start (08:00 UTC sim time), measured on the evaluation grid: ACUTE_CARDIO every 1 min, SENSOR_FAILURE every 1 min, ENVIRONMENTAL_CO2 every 5 min, PROGRESSIVE_FATIGUE every 15 min, PERFORMANCE_DECLINE every 15 min.",
+    "Level = the target astronaut attention level (cabin scenario: worst of the cabin status and the crew levels).",
+    "Self report (check-ins) feeds recommendations and risk factors but never raises alerts on its own."
+  ]
+}

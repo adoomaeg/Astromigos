@@ -1,0 +1,80 @@
+{
+  "import_job_id": "osdr-import-2026-11-14T11-37-00-531Z",
+  "record": {
+    "id": "osdr-osd-569-cbc",
+    "source_name": "NASA Open Science Data Repository (OSDR)",
+    "source_url": "https://osdr.nasa.gov/bio/repo/data/studies/OSD-569",
+    "dataset_accession": "OSD-569",
+    "dataset_version": "OSDR metadata version 4",
+    "title": "Whole Blood Measurements from the SpaceX Inspiration4 Mission (RNA-seq, epitranscriptome, WGS, clonal hematopoiesis, CBC)",
+    "downloaded_at": "2026-11-14T11:37:04.999Z",
+    "license": null,
+    "access_classification": "Public, open access (downloaded without authentication). Processed tabular data.",
+    "file_name": "LSDS-7_Complete_Blood_Count_CBC.upload_SUBMITTED.csv",
+    "sha256": "10a878b009eb2ea11a13fe92ad698098858639e8ed02f5ee849431313b9457d3",
+    "parser_version": "ahi-osdr-import 1.0.0",
+    "study_population": "4 crew members (C001, C002, C003, C004): 2 female, 2 male per sample metadata. Study description: \"four private astronauts\". Age: not stated.",
+    "mission": "SpaceX Inspiration4 (9/16/21 to 9/18/21)",
+    "study_design": "Repeated measures on the same 4 subjects at 7 ground time points. Study factors: Time, Spaceflight. Design descriptor: low Earth orbit.",
+    "collection_phase": "Pre-flight (L-92, L-44, L-3) and post-flight (R+1, R+45, R+82, R+194). No in-flight samples in this file.",
+    "notes": "Complete blood count (CBC) from Whole blood (K2 EDTA tube). L-n = n days before launch, R+n = n days after return (as labeled in the source). Reference ranges are the lab ranges reported in the source file, not NASA limits. License: not stated in the study metadata.",
+    "data_origin": "REAL_PUBLIC"
+  },
+  "files": [
+    {
+      "role": "data",
+      "file_name": "LSDS-7_Complete_Blood_Count_CBC.upload_SUBMITTED.csv",
+      "url": "https://osdr.nasa.gov/geode-py/ws/studies/OSD-569/download?source=datamanager&file=LSDS-7_Complete_Blood_Count_CBC.upload_SUBMITTED.csv",
+      "size_bytes": 26138,
+      "listed_size_bytes": 26138,
+      "sha256": "10a878b009eb2ea11a13fe92ad698098858639e8ed02f5ee849431313b9457d3",
+      "downloaded_at": "2026-11-14T11:37:04.999Z",
+      "raw_path": "data/raw/OSD-569/LSDS-7_Complete_Blood_Count_CBC.upload_SUBMITTED.csv"
+    },
+    {
+      "role": "metadata",
+      "file_name": "osdr-meta.json",
+      "url": "https://osdr.nasa.gov/osdr/data/osd/meta/569",
+      "size_bytes": 361799,
+      "sha256": "1386ef12579f21717eeaacf5509732dc9c4d42db0f0c79a2e69562d966fdba31",
+      "downloaded_at": "2026-11-14T11:37:03.337Z",
+      "raw_path": "data/raw/OSD-569/osdr-meta.json"
+    },
+    {
+      "role": "file listing",
+      "file_name": "osdr-files.json",
+      "url": "https://osdr.nasa.gov/osdr/data/osd/files/569",
+      "size_bytes": 4988,
+      "sha256": "5fa72a93326ca73ea76f953d4ac0cdd3ee2623ec9c4343415fde28fe808cbfdc",
+      "downloaded_at": "2026-11-14T11:37:03.337Z",
+      "raw_path": "data/raw/OSD-569/osdr-files.json"
+    }
+  ],
+  "api": {
+    "meta": "https://osdr.nasa.gov/osdr/data/osd/meta/569",
+    "files": "https://osdr.nasa.gov/osdr/data/osd/files/569",
+    "biodata": "https://visualization.osdr.nasa.gov/biodata/api/v2/dataset/OSD-569/"
+  },
+  "assay": {
+    "panel": "Complete blood count (CBC)",
+    "specimen": "Whole blood (K2 EDTA tube)",
+    "protocol_name": "Complete Blood Count",
+    "protocol_description": "One 4mL tube of whole blood collected in a K2EDTA tube (BD Biosciences, Cat. 367844) was submitted to Quest Diagnostics, test code 6399. The Sysmex XN analyzer performs hematology analysis according to the hydrodynamic focusing (DC Detection), flow cytometry method (semiconductor laser), and SLS hemoglobin method."
+  },
+  "study": {
+    "release_date": "14-May-2024",
+    "submission_date": "29-Aug-2023",
+    "related_accessions": []
+  },
+  "quality": {
+    "source_rows": 553,
+    "numeric_values": 553,
+    "non_numeric_values": [],
+    "ui_analytes": 20,
+    "ui_cells_expected": 560,
+    "ui_cells_with_value": 553,
+    "ui_cells_missing": 7,
+    "excluded_from_ui": []
+  },
+  "discrepancies": []
+}
